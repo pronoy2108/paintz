@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PaintZ</string>
+    <string name="title_activity_main">PaintZ</string>
+    <string name="package_name">com.pronoy2108.paintz</string>
+    <string name="custom_url_scheme">com.pronoy2108.paintz</string>
+</resources>
